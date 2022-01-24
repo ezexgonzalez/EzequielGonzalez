@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Yo soy Ezequiel</h1>
 <h3 align="center">Full Stack Developer from Argentina</h3>
 
-- 🔭 Actualmente estoy trabajando en una SPA (Single Page Application)
+- 🔭 Actualmente estoy trabajando en una SPA (Single Page Application) llamada MedicalHUB
 
 - 🌱 Cursando el bootcamp Henry
 
