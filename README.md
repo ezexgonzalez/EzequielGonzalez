@@ -3,9 +3,9 @@
 
 - 🙋🏻‍♂️ Desarrollador Full Stack orientado al Front-end
 
-- 🔭 Actualmente estoy trabajando en una SPA (Single Page Application) llamada MedicalHUB
+- 🔭 Actualmente estoy en busca de trabajo
 
-- 🌱 Cursando el bootcamp Henry
+- 🌱 Graduado de SoyHenry
 
 - 📫 contactame **ezexgonzalez@outlook.com**
 
